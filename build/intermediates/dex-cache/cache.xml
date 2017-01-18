@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_6b5571a5e86fa160a527262a9f7c55576c8c012e.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_2d13c8a85741a9f62a215f50c5ab75018f4ee79a.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\presentation\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="97352e0f0bf41ff939cebc7adf27450f05e1b340">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\sample-presentation-unspecified_1f9c28d04c5d301e0c109ab3099eb4354afb0567.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_3e20ad190143455d1476392c1be6e0133fa4fca1.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\mobilepb.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="eda6b2dde49f756c161e57fcfaddcdcaa53b879d">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\mobilepb_39e10f947c1849a2c9c398b7ff05d088c1559e2c.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\tls_sdk.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8644e3018cd2a99eb136a270ce31efd38bd7d460">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\tls_sdk_eee41de4721c3869039b29d42931ce76770e9572.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0740e35b1562f687139862cca605a1202e2f94d0.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_82cc0c50f40aaf6f374176efc31518e3821de971.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\qalsdk.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b2fb901d34458ea2bf2854fabc688c5b9978bb69">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\qalsdk_72b301c4fa422ebf25fb241389db221a2d1d1a3d.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\ui\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a913738e595cf3f1602e82e70d8077f49b90526d">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\sample-ui-unspecified_29723067f217a5346cec6f3dccb58360b7544a7b.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b480df8ac228faae6fa0ce6d3eb3df1ba21ab0c8">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\libammsdk_eef34f201eb4ca49b78bab3b6786d981a56cd246.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_4ad94e21958727efe6c6bcc05fe03a179107320c.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\bugly_1.3.0_imsdk_release.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="15716c5ab36719a527d3e98b49f9331196b01aa7">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\bugly_1.3.0_imsdk_release_0c23650b5628a8a5784d74a1f8a0a9b0b6d8cb52.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\HwPush_SDK_V2705.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e7b74208fdd2b9a36de64e2a1c9a9031c28ac04b">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\HwPush_SDK_V2705_66a43c2beb8592e2b69722aafd1e0a8a2fb787e2.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\MiPush_SDK_Client_3_0_3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3139d6d22229a8beab46db00d239fa4c203b74f7">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_3_0_3_f57638d60f1f9ef729e2cf58899acbeaf16d98b4.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\soload.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f1feebab59de3e7a9d173d08c6a9848a40c29505">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\soload_6019b47257b37551279cb7e305874f362d172afe.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\tlslibrary\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d42657a25efdf4161c150f098bbae9e10b415de">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\sample-tlslibrary-unspecified_cfb1ef3d9288b27ffd8e2d4eb64e8d8f7a6ca61c.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\imsdk.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="198e54f4406d4ce02c6f9eec38da876aa34cde64">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\imsdk_96a841bdb5eb3a3386b5c573215d836fd0c27cda.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_df27503c600df5ca010fcc6fef2344f7d38b5e30.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db0c5bf46873a70e4a3adcb6b28255de4ead3871">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\wup-1.0.0-SNAPSHOT_60966b89d5ce3cce8634ad80d3a02556b38ecc4f.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\libs\open_sdk.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d70fd1b7bdf84cb15988151d794c352bd6bd5a7">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\open_sdk_7f815813b0d608c7e3514b2689eb672b77127a80.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\sample\sdk\unspecified\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9cbe24536bfe3107f6d8ecb0b25a741b29044178">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\sample-sdk-unspecified_962569d0e95043984356ba4e015d989778cb184f.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4d43b2e78b7ebc76d5177ff36658c6ce14e88469.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_8a8a25813df60e54e8801adcef95e6142b2825ad.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_125ba4432ddff7a0e15acc89e80567ed8b79009b.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_aaa9afd0eb25943dabdd0219655e04d93949cb40.jar" />
+    </item>
+    <item
+        jar="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\CaiShengHuo\personal\tengxunyuntongxun\IM_Android_SDK_2.4.1\samples\sample\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_7a680b1a52d0bde82a04a3ea0e24c9ac6e56a488.jar" />
+    </item>
+
+</items>
